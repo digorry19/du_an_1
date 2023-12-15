@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d682030-f975-42cb-8cfa-e68beb05b86e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/controls/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/controls/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controls/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/controls/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controls/sanpham/add.php" beforeDir="false" afterPath="$PROJECT_DIR$/controls/sanpham/add.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controls/sanpham/list.php" beforeDir="false" afterPath="$PROJECT_DIR$/controls/sanpham/list.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controls/sanpham/update.php" beforeDir="false" afterPath="$PROJECT_DIR$/controls/sanpham/update.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/controls" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2YUANu6M8UYH399JxI3qByU8gQK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/xampp/htdocs/du_an_1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\du_an_1\views\cart" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.checkout.html">
+    <configuration name="cart.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/du_an_1/views/cart.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="checkout.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/du_an_1/views/checkout.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/du_an_1/views/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="single-product.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/du_an_1/views/single-product.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="wishlist.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/du_an_1/views/wishlist.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.checkout.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.cart.html" />
+        <item itemvalue="JavaScript Debug.single-product.html" />
+        <item itemvalue="JavaScript Debug.wishlist.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d682030-f975-42cb-8cfa-e68beb05b86e" name="Changes" comment="" />
+      <created>1700569750064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700569750064</updated>
+      <workItem from="1700569751033" duration="2660000" />
+      <workItem from="1700579778156" duration="601000" />
+      <workItem from="1700658289015" duration="1373000" />
+      <workItem from="1700665277254" duration="2471000" />
+      <workItem from="1700701856782" duration="5811000" />
+      <workItem from="1700716830807" duration="4412000" />
+      <workItem from="1700731226685" duration="1309000" />
+      <workItem from="1700732636333" duration="6013000" />
+      <workItem from="1700741043374" duration="3363000" />
+      <workItem from="1700843184633" duration="8000" />
+      <workItem from="1700885494148" duration="7741000" />
+      <workItem from="1700917058343" duration="1250000" />
+      <workItem from="1701001651997" duration="730000" />
+      <workItem from="1701002532758" duration="320000" />
+      <workItem from="1701156147546" duration="5209000" />
+      <workItem from="1701332079310" duration="2015000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

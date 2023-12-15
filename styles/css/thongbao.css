@@ -1,0 +1,37 @@
+.custom-popup {
+    color: black !important;
+    position: fixed;
+    top: 15%;
+    left: 85%;
+    transform: translate(100%, 15%);
+    padding: 20px;
+    background-color: green;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    z-index: 9999;
+    animation: slideIn 0.5s forwards;
+  
+}
+.custom-popup2 {
+    color: black !important;
+    position: fixed;
+    top: 15%;
+    left: 70%;
+    transform: translate(100%, 15%);
+    padding: 20px;
+    background-color: red;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    z-index: 9999;
+    animation: slideIn 0.5s forwards;
+    
+}
+
+@keyframes slideIn {
+    from {
+        left: 100%;
+    }
+    to {
+        left: 60%;
+    }
+}
